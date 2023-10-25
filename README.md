@@ -8,4 +8,4 @@ This is a simple implementation of the classic Tic-Tac-Toe game. Two players tak
 
 ## Demo
 
-You can play the game by [linking to your deployed game] or by running it locally (see Installation section).
+You can play the game by [https://keshujangid.github.io/Tic-Tac-Toe/] or by running it locally (see Installation section).
